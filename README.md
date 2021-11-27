@@ -1,12 +1,12 @@
-Task 4 
+**Task 4**
 
 Automate following test on Android platform:
 
-Given: I have found an international trip
+**Given:** I have found an international trip
 
-When: I search that trip on Find flights page
+**When:** I search that trip on Find flights page
 
-Then: I verify I am redirected to flight selection page
+**Then:** I verify I am redirected to flight selection page
 
 
 Prerequisites:
