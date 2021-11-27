@@ -1,4 +1,4 @@
-Task 5 
+Task 4 
 
 Automate following test on Android platform:
 
